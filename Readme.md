@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml.cs](./CS/DockLayoutManager_MoveItem/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/DockLayoutManager_MoveItem/Window1.xaml.vb))
+<!-- default file list end -->
 # How to: Move a Layout Item in Code
 
 
