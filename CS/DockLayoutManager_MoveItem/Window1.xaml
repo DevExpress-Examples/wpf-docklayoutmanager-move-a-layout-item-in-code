@@ -6,7 +6,7 @@
     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
     Title="Window1"
     Width="300"
-    Height="300">
+    Height="200">
     <dxdo:DockLayoutManager Name="dockLayoutManager1">
         <dxdo:DockLayoutManager.LayoutRoot>
             <dxdo:LayoutGroup Name="Root" Orientation="Vertical">
