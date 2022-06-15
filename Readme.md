@@ -21,6 +21,7 @@ This example calls the [LayoutController.Move](https://docs.devexpress.com/WPF/D
 
 - [Layout UI Items](https://docs.devexpress.com/WPF/7223/controls-and-libraries/layout-management/dock-windows/layout-items)
 - [LayoutController.Move](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutController.Move.overloads)
+- [Manage Dock Panels in Code](https://docs.devexpress.com/WPF/15540/controls-and-libraries/layout-management/dock-windows/miscellaneous/managing-dock-panels-in-code)
 
 ## More Examples
 
