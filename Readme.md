@@ -5,7 +5,7 @@
 
 # WPF Dock Layout Manager - Move a Layout Item in Code
 
-This example calls the [LayoutController.Move](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutController.Move.overloads) to move a layout item to the left side of another item in code.
+This example calls the [LayoutController.Move](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutController.Move.overloads) method to move a layout item to the left side of another item in code.
 
 ![image](https://user-images.githubusercontent.com/12169834/173903766-dc2f7720-84b2-485c-ab3d-e23b02fda2eb.png)
 
