@@ -28,7 +28,7 @@ This example calls the [LayoutController.Move](https://docs.devexpress.com/WPF/D
 
 - [WPF Dock Layout Manager - Build a Layout UI](https://github.com/DevExpress-Examples/how-to-build-a-layout-of-controls-within-layoutpanels-e1848)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-move-a-layout-item-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-move-a-layout-item-in-code&~~~was_helpful=no)
 
